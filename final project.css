@@ -25,8 +25,10 @@ body{
 
 #Logo{
 	position:absolute;
-	top:15%;
-	left:3%;
+	top:.5%;
+	left:1%;
+	height: 90%;
+	width: 35%;
 }
 #links{
 	position:absolute;
@@ -35,7 +37,7 @@ body{
 	font-size:30px;
 	font-family:Crescent;
 	font-weight:bold;
-	left:20%;
+	left: 47%;
 	top:65%;
 	border-radius:8px;
 }
@@ -43,9 +45,9 @@ body{
 .description{
 	color:#ffffff;
 	position: absolute;
-	left: 322px;
-    top: 15px;
-	font-size: 45;
+	left: 570px;
+    top: 35px;
+	font-size: 35;
 }
 
 #links ul{
@@ -116,12 +118,14 @@ margin-top: 9pt
 margin-bottom: 9pt
 }
 
-.aboutpic{
-	padding: 34px;
 
-}
+#missionstatement{
+	font-size: 20px;
+	padding: 50px
 
+
+	}
+	
 .aboutdescription{
-	padding: 45px;
-	font-size:18px;
+	padding: 20px;
 }

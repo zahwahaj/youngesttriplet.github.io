@@ -116,3 +116,12 @@ margin-top: 9pt
 margin-bottom: 9pt
 }
 
+.aboutpic{
+	padding: 34px;
+
+}
+
+.aboutdescription{
+	padding: 45px;
+	font-size:18px;
+}

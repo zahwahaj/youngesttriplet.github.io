@@ -121,11 +121,15 @@ margin-bottom: 9pt
 
 #missionstatement{
 	font-size: 20px;
-	padding: 50px
+	padding: 30px
 
 
 	}
 	
 .aboutdescription{
 	padding: 20px;
+}
+
+.journey{
+	padding: 30px;
 }
